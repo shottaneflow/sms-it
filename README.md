@@ -3,6 +3,7 @@
 Автотесты для проверки поиска и сортировки товаров на Wildberries.
 Стек: **Playwright** + **TypeScript** + **Allure**.
 
+```
 ## Структура проекта
 ├── pages/
 │   ├── basePage.ts
@@ -25,7 +26,7 @@
 ├── playwright.config.ts
 ├── eslint.config.js
 └── README.md
-
+```
 ## Требования
 
 - Node.js >= 18

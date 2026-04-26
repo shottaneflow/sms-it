@@ -76,6 +76,7 @@ npm run lint:fix    # автоисправление
 ### Подготовка тестовых данных
 
 Создай структуру папок в `task1/sample/` (папка исключена из git):
+```
 task1/sample/
 ├── dirA/
 │   ├── sub1/          ← 2 .js файла → берём
@@ -91,6 +92,7 @@ task1/sample/
 ├── main.js
 ├── index.js
 └── config.js
+```
 
 ### Запуск
 

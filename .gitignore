@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+blob-report/
+playwright/.cache/
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
+.env.local
+
+# Task1 — тестовые данные, не нужны в репо
+task1/sample/
